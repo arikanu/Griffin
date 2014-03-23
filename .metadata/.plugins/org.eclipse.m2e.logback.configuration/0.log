@@ -1,0 +1,11 @@
+2014-03-23 14:52:58,043 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.royal:griffin:1.0.0-BUILD-SNAPSHOT @ C:\Users\uarikan\Documents\GitHub\Griffin\griffin\pom.xml.
+2014-03-23 14:52:58,043 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.royal:griffin:1.0.0-BUILD-SNAPSHOT @ C:\Users\uarikan\Documents\GitHub\Griffin\griffin\pom.xml.
+2014-03-23 14:53:06,171 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-23 14:53:06,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-03-23 14:53:06,218 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-23 14:53:06,222 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-03-23 14:53:07,760 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.royal:griffin:1.0.0-BUILD-SNAPSHOT @ C:\Users\uarikan\Documents\GitHub\Griffin\griffin\pom.xml.
+2014-03-23 14:53:13,809 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-23 14:53:13,844 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-03-23 14:53:13,848 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-03-23 14:53:13,852 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
