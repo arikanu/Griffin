@@ -1,3 +1,7 @@
 INDEX VERSION 1.126
+C:\Users\uarikan\Documents\GitHub\Griffin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3323267629.index
+\asdf\src\main\java
+C:\Users\uarikan\Documents\GitHub\Griffin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\833990608.index
+\griffin\src\main\java
 C:\Users\uarikan\Documents\GitHub\Griffin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1680693670.index
 \griffin\src\main\java
